@@ -1,0 +1,1 @@
+HMI_CMD_0_NIL: UINT := 0; // No command
